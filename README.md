@@ -1,1 +1,1 @@
-# CompetitiveCoding
+# ProblemSolving
